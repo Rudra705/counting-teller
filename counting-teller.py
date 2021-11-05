@@ -1,5 +1,5 @@
 i = 1
-l = int(input("Enter the nmber till you want the counting...\n"))
+l = int(input("Enter the number till you want the counting...\n"))
 print("Starting!")
 import time
 for i in range(l):
